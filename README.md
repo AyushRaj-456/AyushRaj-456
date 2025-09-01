@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Front-End web developer located in India.<br>I have a passion for UI effects, animations & creating <br>dynamic user experiences.
 
- 
+  
 
 
 # 💻 Tech Stack:
